@@ -11,4 +11,4 @@ The purpose of this git is holding my projects (which i deem uploadable ;_; ) so
 
 **The upload deemability tag will be under extreme scrunity by me so expect only a few uploads in years** 🙂
 
-You can reach me through LinkedIn - linkedin.com/in/aliumarz
+You can reach me through LinkedIn - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](Https://LinkedIn.com/in/aliumarz)
