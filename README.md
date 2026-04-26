@@ -1,16 +1,81 @@
-**Z in!**
-----
-10000x dev keeping up with programming, electronics,digital & analog comm.
+# 👋 Z in!
 
-100% Java and Spring right now, I learnt a little HTML and CSS on the side too and I can write some basic code in React.js.
+> 10,000x dev grinding through code, circuits, and communication systems.
 
-I have been working in web app development projects for a while so I do have some knowledge about MERN Stack,RTC(websockets and such).
+---
 
-I also have some experience writing lobotomized Embedded C Code, I have mainly worked with ESP32/8266 Arduino, Rpi2040 and STM32 MCU.
+## 🧠 About Me
+- 💻 Currently focused on **Java + Spring Boot (100%)**
+- 🌐 Basic frontend skills: **HTML, CSS, React.js**
+- ⚡ Experience with:
+  - **Web apps (MERN, REST APIs)**
+  - **Realtime systems (WebSockets, RTC)**
+- 🔌 Embedded dev (yes, slightly unhinged C code):
+  - ESP32 / ESP8266 (Arduino)
+  - RP2040
+  - STM32
 
-----
-The purpose of this git is holding my projects (which i deem uploadable ;_; ) so that i can improve them later.
+---
 
-**The upload deemability tag will be under extreme scrunity by me so expect only a few uploads in years** 🙂
+## 📊 GitHub Stats
 
-You can reach me through LinkedIn, I'm Looking for a Job Right now(maybe you'll be the lucky person who hires me) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](Https://LinkedIn.com/in/aliumarz)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ztype764&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ztype764&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztype764&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+### Realtime & Systems
+![WebSockets](https://img.shields.io/badge/WebSockets-grey?style=for-the-badge)
+![RTC](https://img.shields.io/badge/WebRTC-purple?style=for-the-badge)
+
+### Embedded
+![ESP32](https://img.shields.io/badge/ESP32-darkgreen?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge)
+
+---
+
+## 📦 Projects Philosophy
+
+> Only projects that survive my **"upload deemability test"** make it here.
+
+- ⚠️ Expect fewer projects
+- 🔄 But expect continuous improvements
+- 🧪 Quality > Quantity
+
+---
+
+## 📫 Reach Me
+
+- 💼 Actively looking for opportunities (yes, seriously)
+- 🔗 [LinkedIn](https://linkedin.com/in/aliumarz)
+
+---
+
+## ⚡ Fun Note
+
+> Some people write clean code.  
+> I write code, then **refactor it until it confesses its sins.**
+
+---
